@@ -1,0 +1,20 @@
+.container{
+    margin-top: 15%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 20px;
+    background-color: orange;
+    text-align: center;
+    font-size: 50px;
+}
+
+.cont-but{
+    text-align: center;
+    border-radius: 20px;
+    font-size: 50px;
+    margin-top: 2%;
+}
+
+.p{
+    margin-top: 5%;
+}
